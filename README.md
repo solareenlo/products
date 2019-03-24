@@ -9,3 +9,6 @@
 
 ### IOTAのフルノードの状態を観察するとてもシンプルなサイト
 - https://github.com/solareenlo/iotanode_get_info_neighbors
+
+### IOTAのホワイトペーパーの日本語訳
+- https://github.com/solareenlo/iota-wp-jp
